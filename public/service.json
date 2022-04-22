@@ -1,0 +1,45 @@
+
+[
+    {
+        "id": 1,
+        "name": "Photo Studio",
+        "price": " $3000",
+        "description": "Photography lighting diagrams made easy with this online tool: use the drop down menus, select objects, drag them, rotate them, change their layers then",
+        "img": "https://i.ibb.co/m9LDct2/pexels-anna-shvets-3746149.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Shooting",
+        "price": " $1000",
+        "description": "A film's camera operator, also called a cameraman, is the professional responsible for operating the camera and capturing the film's footage",
+        "img": "https://i.ibb.co/86k5zJS/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "actresses",
+        "price": " $1500",
+        "description": "A good actor knows his/her role to the bone. They know it extremely thoroughly, ",
+        "img": "https://i.ibb.co/Jkk5MrN/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Nice place",
+        "price": " $1800",
+        "description": " Most Beautiful Places to Visit in Bangladesh ",
+        "img": "https://i.ibb.co/BLQGf5P/pexels-tu-n-ki-t-jr-1321909.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Raw Camera",
+        "price": "$500",
+        "description": " Best professional camera in 2022 · 1. Canon EOS R5",
+        "img": "https://i.ibb.co/TWjb4PB/pexels-cody-king-1208074.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Spot Guide",
+        "price": " $300",
+        "description": "· Be flexible about instance types and Availability Zones · Use EC2 Auto Scaling",
+        "img": "https://i.ibb.co/yqjFY7J/6.jpg"
+    }
+]
