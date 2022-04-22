@@ -7,11 +7,11 @@ const About = () => {
     return (
         <div>
             <Card className="text-center">
-  <Card.Header>Im Raihanuzaman Faruk</Card.Header>
+  <Card.Header>This is Mohammad Enamul Haque</Card.Header>
   <Card.Body>
     <Card.Title>[ Very Special Photographer In Whole World ] </Card.Title>
     <Card.Text>
-    This Photo Clicking By Md Fajle Rabbe Talha She Very HardFull Work For Shoccho Tour & Travels
+    This Photo Clicking By Mahbub Rahman Rabby he is Very hard work in photography And he also traveler.
     </Card.Text>
     <img src={Portfolio} className="card-img-top portF" alt=""/>
     <br />
