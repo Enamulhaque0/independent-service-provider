@@ -5,7 +5,7 @@ const Footer = () => {
     const year = today.getFullYear();
     return (
         <footer className='text-center mt-5 container '>
-            <p><small>Copyright by Md Raihanuzaman Faruk @ {year} </small></p>
+            <p><small>Copyright by Mohammad Enamul Haque @ {year} </small></p>
         </footer>
     );
 };
